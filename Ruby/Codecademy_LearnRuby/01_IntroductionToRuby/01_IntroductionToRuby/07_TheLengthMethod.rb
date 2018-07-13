@@ -1,0 +1,1 @@
+﻿puts "I love e-learning".length
